@@ -2,7 +2,7 @@
  
 An interactive command-line tool built as a **Compiler Construction learning platform**. It accepts a user-defined context-free grammar, constructs the full LR(0) automaton, generates ACTION and GOTO tables, detects conflicts, builds parse trees, and exports everything as PNG visualizations.
  
-> **Course:** Introduction to Machine Learning (SWEG4112) — Department of Software Engineering  
+> **Course:** Principles of Compiler Design — Department of Software Engineering  
 > **Presented to:** Mr. Kassahun  
 > **Authors:** Selahadin Desalegn, Natnahom Asfaw, Nebyu Daniel, Nebiyu Ermiyas, Abenezer Yonathan
  
